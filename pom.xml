@@ -23,7 +23,7 @@
 
     <properties>
         <seed.version>2.3.0</seed.version>
-        <hibernate-validator.version>5.1.3.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.2.0.Final</hibernate-validator.version>
 
         <compatibility.version>2.1.0</compatibility.version>
 
